@@ -1,0 +1,119 @@
+body {
+    background-color: #46408a !important;
+}
+
+.main-body {
+    background-color: #fff;
+    border-radius: 34px;
+    margin-bottom: 25px;
+}
+
+.heading1 {
+    color: #fff;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.plan-tab-1 {
+    display: flex;
+    font-size: 16px;
+    padding: 12px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.text-1 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.plan-tab-1-1 {
+    width: 114px;
+}
+
+.info-1 {
+    display: flex;
+    padding: 11px;
+    font-size: 16px;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 4px;
+}
+
+.card-1 {
+    padding: 12px;
+    background-color: #f2f2f2;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.buttonProceed {
+    width: 70%;
+    padding: 11px;
+    background: #46418c;
+    color: #fff;
+    border: 0;
+}
+
+.button-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 27px 0;
+}
+
+.card-1:hover {
+    background-color: #f58338;
+    cursor: pointer;
+}
+
+@media (min-width: 992px) {
+    .col-md-3 {
+        width: 23% !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1200px !important;
+    }
+}
+
+.div-2 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 32px;
+    color: #452f8a;
+    font-weight: 600;
+    font-family: "NeoSansPro-Medium";
+}
+
+.filter-image {
+    text-align: center;
+}
+
+.points {
+    font-size: 18px;
+    line-height: 23px;
+    color: #333;
+    margin-top: 18px;
+}
+
+.month-key {
+    font-size: 10px;
+}
+
+.additionalInfo {
+    font-size: 12px;
+    line-height: 20px;
+    color: #828282;
+}
+
+.text-right {
+    text-align: right;
+}
